@@ -1,8 +1,8 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../branding/wordmark-light.svg">
-    <img alt="Lattice" src="../branding/wordmark-dark.svg" width="300">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lattice-fe/.github/main/branding/wordmark-light.svg">
+  <img alt="Lattice" src="https://raw.githubusercontent.com/lattice-fe/.github/main/branding/wordmark-dark.svg" width="300">
+</picture>
 
   <p><b>A file explorer with full-text &amp; semantic search.</b></p>
 
