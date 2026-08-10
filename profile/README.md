@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../branding/wordmark-light.svg">
-    <img alt="Lattice" src="d../branding/wordmark-dark.svg" width="300">
+    <img alt="Lattice" src="../branding/wordmark-dark.svg" width="300">
   </picture>
 
   <p><b>A file explorer with full-text &amp; semantic search.</b></p>
